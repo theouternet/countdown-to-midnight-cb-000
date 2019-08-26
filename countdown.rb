@@ -1,8 +1,9 @@
 #write your code here
 
-n = 20
 
 def countdown(n)
+  n = 12
+
   while n > 0
   n -= 1
   puts "#{n} SECOND(S)!"
