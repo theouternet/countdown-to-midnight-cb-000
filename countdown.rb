@@ -11,7 +11,7 @@ def countdown(number)
 number -= 1
 
 end
-if number = 0
+if number < 1
 return "HAPPY NEW YEAR!"
 end
     
