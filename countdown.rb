@@ -1,5 +1,6 @@
 #write your code here
 
+n = 20
 
 def countdown(n)
   while n > 0
