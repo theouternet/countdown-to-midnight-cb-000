@@ -9,8 +9,7 @@ def countdown(n)
   puts "#{n} SECOND(S)!"
 
 n -= 1
-  sleep 1
-  
+
 end
   
   if n = 0
