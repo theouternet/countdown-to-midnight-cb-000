@@ -8,9 +8,11 @@ def countdown(n)
   n -= 1
   puts "#{n} SECOND(S)!"
   sleep 1
+  
+end
+  
   if n = 0
     puts "HAPPY NEW YEAR!"
   end  
-end
     
 end
