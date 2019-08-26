@@ -1,8 +1,9 @@
 #write your code here
 
+  n = 12
+
 
 def countdown(n)
-  n = 12
 
   while n > 0
   n -= 1
